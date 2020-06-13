@@ -20,11 +20,9 @@
 
 
 ```javascript
-exports.debugServiceQ2 = async (serviceName) => {
-  if (await serviceQ.isSelectorMatching()){
-   this.checkPodIP(serviceName)
-  }else {
-    console.log(colors.green('Fix the Service selector. It has to match the Pod labels'));
+if (await podQ.isRunContainerError()) {
+    console.log(
+      colors.green(`\n The issue is likely to be with Mounting Volumes \n`)
+    );
   }
-};
 ```
