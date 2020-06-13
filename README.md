@@ -18,5 +18,6 @@ Highlights:
 
 :white_check_mark: Predictable - Navigation follows this popular troubleshooting guide
 
-
+:heavy_green_check_mark:
+:green_heavy_check_mark:
 :heavy_check_mark:
