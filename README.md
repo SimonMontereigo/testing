@@ -20,9 +20,9 @@
 
 
 ```javascript
-if (await podQ.isRunContainerError()) {
+if (await pod.isRunContainerError()) {
     console.log(
-      colors.green(`\n The issue is likely to be with Mounting Volumes \n`)
+      colors.green(`The issue is likely to be with Mounting Volumes`)
     );
   }
 ```
