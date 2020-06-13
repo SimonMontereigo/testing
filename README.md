@@ -17,3 +17,6 @@ Highlights:
 :white_check_mark: Lightweight - No bulk files, just the essentials
 
 :white_check_mark: Predictable - Navigation follows this popular troubleshooting guide
+
+
+:heavy_check_mark:
