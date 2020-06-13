@@ -20,9 +20,9 @@
 
 
 ```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
+if (await podQuestion.isRunContainerError()) {
+    console.log(
+      colors.green(`The issue is likely to be with Mounting Volumes`)
+    );
   }
-}
 ```
