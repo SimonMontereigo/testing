@@ -11,7 +11,7 @@
 
 MIT LICENSE BADGE, OPEN SOURCE, npm version, prs welcome, build passing travis ci 
 
-##Highlights: 
+## Highlights
 
 :rocket:  **FAST** - debugs from Pod level to Ingress level in seconds, not hours
 
@@ -33,13 +33,13 @@ npm install kcompass
 
 ## How to Use
 
-One Command
+#### One Command
 
 ```sh
 kcompass debug <pod-name>
 ```
 
-Simple Y/N Questions That Quickly Pinpoint Your Errors
+#### Simple Y/N Questions That Quickly Pinpoint Your Errors
 
 
 ```javascript
@@ -50,10 +50,12 @@ if (await pod.isRunContainerError()) {
   }
 ```
 
-Inspiration:
-
-For the awesome guide: 
+## Inspiration
 
 For the Kubernetes war stories: 
 https://k8s.af/
+
+For the awesome guide: 
+
+
 
