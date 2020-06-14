@@ -25,14 +25,14 @@ if (await pod.isRunContainerError()) {
   }
 ```
 
-### :heavy_check_mark: Simple Y/N Questions :heavy_plus_sign: Step by Step Visibility
+#### :heavy_check_mark: Simple Y/N Questions :heavy_plus_sign: Step by Step Visibility
 
-### :heavy_check_mark: Checkpoints for Error Isolation
+#### :heavy_check_mark: Checkpoints for Error Isolation
 
-### :heavy_check_mark: Works on the Pod level all the way up to the Ingress level
+#### :heavy_check_mark: Works on the Pod level all the way up to the Ingress level
 
 
-### Troubleshooting Guide First, Search Overload Later 
+#### Troubleshooting Guide First, Search Overload Later 
 
 
 
