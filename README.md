@@ -15,7 +15,7 @@ MIT LICENSE BADGE, OPEN SOURCE, npm version, prs welcome, build passing travis c
 
 :rocket:  **FAST** - debugs from Pod level to Ingress level in seconds, not hours
 
-:mag_right: **Visible** - auto-runs kubectl commands at major steps gives you full control
+:mag_right: **Visible** - auto-runs kubectl commands at major steps giving you eyes on the process
 
 :vertical_traffic_light: **Lazy-Friendly** - Simple Y/N Questions, Color Highlights (Red / Green) 
 
