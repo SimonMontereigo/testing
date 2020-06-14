@@ -44,7 +44,7 @@ Questions follow this popular troubleshooting guide. Credits to XXXXXX for this 
 
 
 <p align="center">
-  <img width="1500" height="1962" src="https://drive.google.com/uc?export=view&id=1lzXyq1RY1QFExFK7rWCCLwBNP83Lw7DA">
+  <img width="1000" height="1500" src="https://drive.google.com/uc?export=view&id=1lzXyq1RY1QFExFK7rWCCLwBNP83Lw7DA">
 </p>
 
 ## Installation
