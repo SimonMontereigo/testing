@@ -18,6 +18,20 @@
 
 :compass: **Predictable** - Navigation follows this popular troubleshooting guide
 
+## Installation
+
+To install the stable version:
+
+```sh
+npm install kcompass
+```
+
+## How to Run
+
+```sh
+kcompass debug <pod-name>
+```
+
 
 ```javascript
 if (await pod.isRunContainerError()) {
