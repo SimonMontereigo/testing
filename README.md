@@ -10,7 +10,7 @@
 
 :rocket:  **FAST** - debugs from pod level to ingress level in seconds, not hours
 
-:white_check_mark: **Visible** - auto-runs kubectl commands at major steps gives you full control
+:mag_right: **Visible** - auto-runs kubectl commands at major steps gives you full control
 
 :vertical_traffic_light: **Lazy-Friendly** - Simple Y/N Questions, Color Highlights (Red / Green) 
 
