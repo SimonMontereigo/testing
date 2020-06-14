@@ -25,17 +25,21 @@ MIT LICENSE BADGE, OPEN SOURCE, npm version, prs welcome, build passing travis c
 
 ## Installation
 
-To install the stable version:
+To install the latest version:
 
 ```sh
 npm install kcompass
 ```
 
-## How to Run
+## How to Use
+
+One Command
 
 ```sh
 kcompass debug <pod-name>
 ```
+
+Simple Y/N Questions That Quickly Pinpoint Your Errors
 
 
 ```javascript
@@ -45,3 +49,11 @@ if (await pod.isRunContainerError()) {
     );
   }
 ```
+
+Inspiration:
+
+For the awesome guide: 
+
+For the Kubernetes war stories: 
+https://k8s.af/
+
