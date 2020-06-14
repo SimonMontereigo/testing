@@ -32,8 +32,9 @@ if (await pod.isRunContainerError()) {
 #### :heavy_check_mark: Works on the Pod level all the way up to the Ingress level
 
 
-#### Troubleshooting Guide First, Search Overload Later 
+#### Troubleshooting Checklist First, Search Overload Later 
 
+Questions follow this popular troubleshooting guide. Credits to XXXXXX for this awesome guide. Here is a PDF of this guide. 
 
 
 
