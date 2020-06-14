@@ -25,7 +25,7 @@ if (await pod.isRunContainerError()) {
   }
 ```
 
-#### :heavy_check_mark: Simple Y / N Questions :heavy_plus_sign: Step by Step Visibility
+#### :heavy_check_mark: Simple (Y/N) Questions :heavy_plus_sign: Step by Step Visibility
 
 #### :heavy_check_mark: Checkpoints for Error Isolation
 
@@ -61,7 +61,7 @@ kcompass debug <pod-name>
 
 :mag_right: **Visible** - auto-runs kubectl commands at major steps giving you eyes on the process
 
-:vertical_traffic_light: **Lazy-Friendly** - Simple Y / N Questions, Color Highlights (Red / Green) 
+:vertical_traffic_light: **Lazy-Friendly** - Simple (Y/N) Questions, Color Highlights (Red / Green) 
 
 :page_facing_up: **Lightweight** - No bulk files, just the essentials
 
