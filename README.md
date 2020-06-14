@@ -68,12 +68,6 @@ kcompass debug <pod-name>
 :compass: **Predictable** - Navigation follows this popular troubleshooting guide
 
 
-
-#### Simple Y/N Questions That Quickly Pinpoint Your Errors
-
-
-
-
 ## Contributors
 
 Contributors Welcome!
