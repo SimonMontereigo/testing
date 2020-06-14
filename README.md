@@ -34,7 +34,7 @@ if (await pod.isRunContainerError()) {
 
 #### Troubleshooting Checklist First, Search Overload Later 
 
-Questions follow this popular troubleshooting guide. Credits to XXXXXX for this awesome guide. Here is a PDF of this guide. 
+Questions follow this popular troubleshooting guide. Credits to XXXXXX for this awesome guide (PDF).
 
 
 
