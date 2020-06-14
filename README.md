@@ -37,14 +37,14 @@ if (await pod.isRunContainerError()) {
 
 #### :heavy_check_mark: Works on the Pod level all the way up to the Ingress level
 
+<h2 align="center"> :white_check_mark: Debug Checklist First, :sob: Search Overload Later </h2>
 
-#### Troubleshooting Checklist First, Search Overload Later 
-
-Questions follow this popular troubleshooting guide. Credits to XXXXXX for this awesome guide (PDF).
+Compass auto-runs kubectl commands & questions based on this popular troubleshooting guide until the error is found.
+Credits to XXXXXX for this awesome guide (PDF).
 
 
 <p align="center">
-  <img width="1000" height="1500" src="https://drive.google.com/uc?export=view&id=1lzXyq1RY1QFExFK7rWCCLwBNP83Lw7DA">
+  <img width="997" height="1308" src="https://drive.google.com/uc?export=view&id=1lzXyq1RY1QFExFK7rWCCLwBNP83Lw7DA">
 </p>
 
 ## Installation
