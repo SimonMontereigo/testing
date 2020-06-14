@@ -8,7 +8,7 @@
 
 ##Highlights: 
 
-:rocket:  **FAST** - debugs from pod level to ingress level in seconds, not hours
+:rocket:  **FAST** - debugs from Pod level to Ingress level in seconds, not hours
 
 :mag_right: **Visible** - auto-runs kubectl commands at major steps gives you full control
 
