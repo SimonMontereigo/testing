@@ -16,10 +16,7 @@
          
 <h2 align="center">A way to quickly pinpoint errors in your Kubernetes Deployment.</h2>
  
-
-
-
-GIF
+FREEZE FRAME 
 
 
 ### Code Snippet
@@ -33,9 +30,15 @@ if (await pod.isRunContainerError()) {
 
 #### :heavy_check_mark: Simple (Y/N) Questions :heavy_plus_sign: Step by Step Visibility
 
+GIF 
+
 #### :heavy_check_mark: Checkpoints for Error Isolation
 
+GIF
+
 #### :heavy_check_mark: Works on the Pod level all the way up to the Ingress level
+
+GIF
 
 <h2 align="center"> :white_check_mark: Debug Checklist First, :sob: Search Overload Later </h2>
 
