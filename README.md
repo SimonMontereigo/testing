@@ -14,7 +14,7 @@
 
 :vertical_traffic_light: **Lazy-Friendly** - Simple Y/N Questions, Color Highlights (Red / Green) 
 
-:label: **Lightweight** - No bulk files, just the essentials
+:page_facing_up: **Lightweight** - No bulk files, just the essentials
 
 :compass: **Predictable** - Navigation follows this popular troubleshooting guide
 
