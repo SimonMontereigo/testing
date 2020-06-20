@@ -7,17 +7,13 @@
 
 
 <p align="center">
-  <!-- License -->
-  <img src="https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/">
+  
+  <img src="https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/"/>
 
-
-  <!-- Contributions -->
+  <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/"/>
+  
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com"/>
 
-  <!-- Stability
-  <img src="https://travis-ci.org/boennemann/badges.svg?branch=master)](https://travis-ci.org/boennemann/badges"/>
-
-  <img src="https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge//>
 </p>
 
 
