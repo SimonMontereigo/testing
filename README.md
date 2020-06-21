@@ -27,7 +27,8 @@
 
 <h2 align="center">Quickly Pinpoint Errors in your Kubernetes Deployment</h2>
 
-<img src="https://user-images.githubusercontent.com/48870586/85231130-b4688f00-b3c2-11ea-9de1-94d52d5d926f.gif"/>
+
+<img src="https://user-images.githubusercontent.com/48870586/85231694-6f932700-b3c7-11ea-8258-accc8131637f.gif"/>
  
 
 
