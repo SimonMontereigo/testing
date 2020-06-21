@@ -21,10 +21,15 @@
 
 
 
-         
+<br/>
+<br/>
+
+
 <h2 align="center">Quickly Pinpoint Errors in your Kubernetes Deployment</h2>
+
  
  THIS SECTION FOR GIF
+
 
 
 ### Code Snippet
