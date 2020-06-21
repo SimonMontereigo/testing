@@ -32,14 +32,6 @@
 
 
 
-### Code Snippet
-```javascript
-if (await pod.isRunContainerError()) {
-    console.log(
-      colors.green(`The issue is likely to be with Mounting Volumes`)
-    );
-  }
-```
 
 #### :heavy_check_mark: Simple (Y/N) Questions :heavy_plus_sign: Step by Step Visibility
 
@@ -80,11 +72,14 @@ npm install kcompass
 kcompass debug <pod-name>
 ```
 
-#### Under the Hood
-```sh
-kcompass debug <pod-name>
+### Code Snippet
+```javascript
+if (await pod.isRunContainerError()) {
+    console.log(
+      colors.green(`The issue is likely to be with Mounting Volumes`)
+    );
+  }
 ```
-
 
 ## Highlights
 
