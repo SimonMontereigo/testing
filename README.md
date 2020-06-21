@@ -24,7 +24,7 @@
          
 <h2 align="center">Quickly Pinpoint Errors in your Kubernetes Deployment</h2>
  
-FREEZE FRAME 
+ THIS SECTION FOR GIF
 
 
 ### Code Snippet
@@ -38,20 +38,20 @@ if (await pod.isRunContainerError()) {
 
 #### :heavy_check_mark: Simple (Y/N) Questions :heavy_plus_sign: Step by Step Visibility
 
-GIF 
+ THIS SECTION FOR GIF
 
 #### :heavy_check_mark: Checkpoints for Error Isolation
 
-GIF
+ THIS SECTION FOR GIF
 
 #### :heavy_check_mark: Works on the Pod level all the way up to the Ingress level
 
-GIF
+ THIS SECTION FOR GIF
 
 <h2 align="center"> :white_check_mark: Debug Checklist First, :sob: Search Overload Later </h2>
 
 Compass auto-runs kubectl commands & questions based on this popular troubleshooting guide until the error is found.
-Credits to XXXXXX for this awesome guide (PDF).
+Credits to LearnK8s.io for this awesome guide (PDF).
 
 
 <p align="center">
@@ -71,6 +71,11 @@ npm install kcompass
 
 #### One Command
 
+```sh
+kcompass debug <pod-name>
+```
+
+#### Under the Hood
 ```sh
 kcompass debug <pod-name>
 ```
