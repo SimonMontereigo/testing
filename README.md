@@ -28,7 +28,7 @@
 <h2 align="center">Quickly Pinpoint Errors in your Kubernetes Deployment</h2>
 
  
- THIS SECTION FOR GIF
+<img src="https://drive.google.com/uc?export=view&id=1Ug5p1ZX4s1oSVStlzUvWWH3UzXsO29Fg"/>
 
 
 
