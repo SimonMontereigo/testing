@@ -1,5 +1,4 @@
 
-
 <p align="center">
   <img width="174" height="215" src="https://drive.google.com/uc?export=view&id=1_8y9jYwp1cFnVYDLkO34DEEdf_cipICh">
     <h1 align="center">Compass</h1>
@@ -94,7 +93,8 @@ kcompass debug <pod-name>
 
 Contributors Welcome!
 
-Huge Thanks to the Kubernetes Open Source Community for the Support. If you found this interesting or helpful at all, feel free to drop a star on this project to show your support!
+Huge Thanks to the Kubernetes Open Source Community for the Support. If you found this interesting or helpful at all, feel free to drop a :star2: star :star2: on this project to show your support!
+
 
 Got a suggestion, issue or feedback? Shoot me an email at kubecompass@gmail.com and I'll respond within the day. 
 
