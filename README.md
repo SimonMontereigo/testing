@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img width="249" height="307" src="https://drive.google.com/uc?export=view&id=1_8y9jYwp1cFnVYDLkO34DEEdf_cipICh">
+  <img width="174" height="215" src="https://drive.google.com/uc?export=view&id=1_8y9jYwp1cFnVYDLkO34DEEdf_cipICh">
     <h1 align="center">Compass</h1>
 </p>
 
