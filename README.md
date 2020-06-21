@@ -23,7 +23,7 @@
 
 
          
-<h2 align="center">A way to quickly pinpoint errors in your Kubernetes Deployment.</h2>
+<h2 align="center">Quickly Pinpoint Errors in your Kubernetes Deployment</h2>
  
 FREEZE FRAME 
 
